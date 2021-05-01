@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.container{
+    /* to bring the container to the center  */
+    margin: 0 auto;
+    max-width: 860px;
+    width: 96%;
+    text-align: center;
+    background:  rgb(51, 110, 123);;
+    color: white;
+}
+.top-heading{
+    background: rgba(0, 0, 0, 0.6);
+    color:white
+    
+    
+}
+.main-part{
+    margin-top: 0;
+}
+p,h3,h4,h5,h6{
+    font-size: 20px;
+}
+
+
+
